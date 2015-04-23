@@ -1,0 +1,12 @@
+3dc9524683b9b2ea277e6cc820664e1c *openwrt-ar71xx-generic-nbg460n_550n_550nh-u-boot.bin
+9cce1ab49bb0939649943b353e749e48 *openwrt-ar71xx-generic-root.squashfs
+1d46a875773fc1e8954e53107bedbbb5 *openwrt-ar71xx-generic-root.squashfs-64k
+a5bbdc6ce9cb12cfd4b76c10cde369f0 *openwrt-ar71xx-generic-tl-wr720n-v3-squashfs-factory.bin
+1e9ae82c0649fc107655114d3272c97d *openwrt-ar71xx-generic-tl-wr720n-v3-squashfs-sysupgrade.bin
+c41e4cef81eb98e73bed9e7af77314d5 *openwrt-ar71xx-generic-uImage-gzip.bin
+ec3dc89d9a34f53920bda6c974215215 *openwrt-ar71xx-generic-uImage-lzma.bin
+38ba4ca23e7d5b5929e2edd44e5a3956 *openwrt-ar71xx-generic-vmlinux-lzma.elf
+e0075ff878e4ea15efb22dde2f16d055 *openwrt-ar71xx-generic-vmlinux.bin
+e20b8ccda510bec07bd57aced92771e1 *openwrt-ar71xx-generic-vmlinux.elf
+7890e90e2e17f4e126c994df62b37e7a *openwrt-ar71xx-generic-vmlinux.gz
+b527032f1c267c7a951a4f907b527cf0 *openwrt-ar71xx-generic-vmlinux.lzma
